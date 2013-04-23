@@ -1,0 +1,20 @@
+#+title: HyperTracer Presentation
+#+startup: hidestars
+
+* What to talk about?
+
+** 4D
+   What is 4D reality?
+   Picture of HyperCube, or sth.
+   
+** Raytracing
+   Short description of algorithm.
+   
+** Common Lisp
+   Descriptive, data = code.
+   REPL
+   OpenGL bindings.
+
+** Work plan
+   Research 'till end of May.
+   Implementation starts on June.
